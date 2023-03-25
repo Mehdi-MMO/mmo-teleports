@@ -10,6 +10,6 @@ version '1.0.0'
 
 client_scripts {'client.lua'}
 
-server_scripts {'server.lua'}
+server_scripts {'server.lua', 'vc.lua'}
 
 shared_scripts {"config.lua", "@ox_lib/init.lua"}
