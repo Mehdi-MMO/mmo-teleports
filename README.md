@@ -7,7 +7,7 @@ This is a teleportation script for FiveM that allows players to teleport between
 - Customizable keybind for teleportation.
 - Text UI with instructions and location names.
 - Server-side permission checks for ace perms teleportation.
-- Customizable teleportation markers (color & size).
+- Customizable teleportation markers (color).
 
 # Requirements
 [ox_lib](https://github.com/overextended/ox_lib)
