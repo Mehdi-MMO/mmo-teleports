@@ -2,6 +2,7 @@
 This is a teleportation script for FiveM that allows players to teleport between predefined locations.
 
 ## Features
+- Ability to teleport with vehicles.
 - Teleportation between predefined locations.
 - Customizable keybind for teleportation.
 - Text UI with instructions and location names.
